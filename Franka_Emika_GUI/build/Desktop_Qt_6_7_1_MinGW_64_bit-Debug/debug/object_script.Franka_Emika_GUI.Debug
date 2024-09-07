@@ -1,0 +1,17 @@
+debug/calib.o
+debug/callbacks.o
+debug/delay.o
+debug/frankathread.o
+debug/main.o
+debug/mainwindow.o
+debug/examples_common.o
+debug/daq.o
+debug/s826.o
+debug/gamepadmonitor.o
+debug/magneticmathfunctions.o
+debug/electromagnet_calibration.o
+debug/scalorPotential.o
+debug/moc_calib.o
+debug/moc_delay.o
+debug/moc_mainwindow.o
+debug/moc_gamepadmonitor.o

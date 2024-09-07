@@ -1,0 +1,17 @@
+release/calib.o
+release/callbacks.o
+release/delay.o
+release/frankathread.o
+release/main.o
+release/mainwindow.o
+release/examples_common.o
+release/daq.o
+release/s826.o
+release/gamepadmonitor.o
+release/magneticmathfunctions.o
+release/electromagnet_calibration.o
+release/scalorPotential.o
+release/moc_calib.o
+release/moc_delay.o
+release/moc_mainwindow.o
+release/moc_gamepadmonitor.o
