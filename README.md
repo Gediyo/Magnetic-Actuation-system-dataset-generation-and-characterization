@@ -30,4 +30,4 @@ training with additional randomized input values. Furthermore, this study uncove
 lack of correlation between the command and measured current values, indicating the need for further
 investigation to identify the root cause of this issue.
 
-[Read the full document for part 2 here](Data-driven Modeling of a Multi-coil Magnetic Actuation System.pdf)
+[Read the full document for part 2 here](Data-driven_Modeling_of_a_Multi-coil_Magnetic_Actuation_System.pdf)
